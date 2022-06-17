@@ -9,17 +9,17 @@ global.APIKeys = {
 	'https://api.lolhuman.xyz': 'RINTISAJA',
 }
 
-global.owner = ['6288227864033']
-global.premium = ['6288227864033']
-global.packname = 'Owner BalzBotz'
-global.author = 'Wa : https://wa.me/6288227864033\nYT : BALZ YT\nIG : balzshop\nGH : KirBotz\nTT : yt_balzbotz'
+global.owner = ['6285743137623']
+global.premium = ['6285743137623']
+global.packname = 'Owner ChikaBotz'
+global.author = 'Wa : https://wa.me/6285743137623\nYT : CHIKA OFC\nIG : CHIKAshop\nGH : CHIKA Botz\nTT : yt_chikabotz'
 global.sessionName = 'balzbotz'
-global.namabotnya = 'BalzBotz'
-global.namaownernya = 'BALZ GTG'
+global.namabotnya = 'ChikaBotz'
+global.namaownernya = 'CHIKA CANS'
 global.lolkey = 'RINTISAJA'
-global.wame = 'https://wa.me/6288227864033'
+global.wame = 'https://wa.me/6285743137623'
 global.gckirbotz = 'https://chat.whatsapp.com/CswK4kvQD1u7SfSmsYfM'
-global.ownerNumber = ["6288227864033@s.whatsapp.net"]
+global.ownerNumber = ["6285743137623@s.whatsapp.net"]
 global.email = 'tesheroku123@gmail.com'
 global.yt = 'https://youtube.com/channel/UC7NslQroUqQYzo2wDFB'
 global.region = 'Indonesia'
